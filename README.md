@@ -1,12 +1,11 @@
-<h3 align="left">Hi 👋, I'm Tomasz</h3>
-<h3 aligh="left">Third year Computer Science student on Polish Japanese Academy of Information Technology in Gdańsk, mainly intrested in Python and BigData</h3>
+<h4 align="left">Hi 👋, I'm Tomasz</h4>
+<h4 aligh="left">Third year Computer Science student on Polish Japanese Academy of Information Technology in Gdańsk, mainly intrested in Python and BigData</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dziameno&label=Profile%20views&color=0e75b6&style=flat" alt="dziameno" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+<p align="left">  </p>
 <p align="left">
 <a href="https://linkedin.com/in/tomasz-wozny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomasz-wozny" height="30" width="40" /></a>
 <a href="https://kaggle.com/dziameno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dziameno" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=dziameno&label=Profile%20views&color=0e75b6&style=flat" alt="dziameno" />
 </p>
 
 <h3 align="left">Main Languages and Tools:</h3>
