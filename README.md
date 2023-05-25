@@ -1,5 +1,6 @@
 <h4 align="left">Hi 👋, I'm Tomasz</h4>
-<h4 aligh="left">Third year Computer Science student on Polish Japanese Academy of Information Technology in Gdańsk, mainly intrested in Python and BigData</h4>
+<h4 aligh="left">Current third year Computer Science student with specialization in artificial intelligence. My interest lies mainly in Python, Big Data, Machine Learning and utilizing those tools to implement different solutions.<br />
+Happy, patient individual who enjoys collaborating with others and spending quality time with them. I am highly goal-oriented and driven to achieve my objectives.</h4>
 
 <p align="left">  </p>
 <p align="left">
