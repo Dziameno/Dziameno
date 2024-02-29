@@ -1,5 +1,5 @@
 <h4 align="left">Hi 👋, I'm Tomasz</h4>
-<h4 aligh="left">Current last year Computer Science student with specialization in artificial intelligence. My interest lies mainly in Python, Big Data, Machine Learning and utilizing those tools to implement different solutions.<br />
+<h4 aligh="left">Computer Science graduate with specialization in artificial intelligence. My interest lies mainly in Python, Big Data, Machine Learning and utilizing those tools to implement different solutions.<br />
 Happy, patient individual who enjoys collaborating with others and spending quality time with them. I am highly goal-oriented and driven to achieve my objectives.</h4>
 
 <p align="right">  </p>
